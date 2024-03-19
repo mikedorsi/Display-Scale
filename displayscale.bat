@@ -13,7 +13,7 @@ rem Favorite HD (1080p) scale
 set defaultHD=100
 set defaultHDHex=0x60
 
-rem Favorite UHD (2K) scale
+rem Favorite QHD (2K) scale
 set defaultQHD=125
 set defaultQHDHex=0x78
 
