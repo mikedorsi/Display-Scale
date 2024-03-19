@@ -1,3 +1,5 @@
+Windows Only.
+
 Display Scale will auto change your Display Scale on startup based on the current resolution.
 
 VBS script belongs in \AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup and will point to where you keep the .BAT script and SetDPI.exe.
